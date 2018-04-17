@@ -1,0 +1,30 @@
+{
+  "name": "hotpiejs",
+  "version": "1.0.0",
+  "description": "//A simple and sweet SVG based piechart library built on react",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "svg.js": "^2.6.4",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "build:prod": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurntCereal/HotPiejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurntCereal/HotPiejs/issues"
+  },
+  "homepage": "https://github.com/BurntCereal/HotPiejs#readme"
+}
